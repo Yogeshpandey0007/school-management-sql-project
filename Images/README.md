@@ -1,2 +1,7 @@
+<p align="center">
+  <img src="Images/banner.png" width="100%">
+</p>
 
-# ER Diagram Files
+# 🎓 School Management System Analytics Dashboard
+
+A complete Data Analytics project using **MySQL**, **SQL**, and **Power BI**.
